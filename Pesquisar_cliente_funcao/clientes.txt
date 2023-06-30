@@ -1,0 +1,30 @@
+------ Cliente 2 ------
+Código do cliente: 1
+Nome do cliente: teste4
+Endereço do cliente: teste4
+
+------ Cliente 2 ------
+Código do cliente: 2
+Nome do cliente: teste2
+Endereço do cliente: teste2
+
+------ Cliente 2 ------
+Código do cliente: 3
+Nome do cliente: teste4
+Endereço do cliente: teste4
+
+------ Cliente 2 ------
+Código do cliente: 4
+Nome do cliente: teste4
+Endereço do cliente: teste4
+
+------ Cliente 2 ------
+Código do cliente: 5
+Nome do cliente: teste4
+Endereço do cliente: teste4
+
+------ Cliente 2 ------
+Código do cliente: 6
+Nome do cliente: teste4
+Endereço do cliente: teste4
+------------------
