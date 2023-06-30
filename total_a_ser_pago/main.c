@@ -23,7 +23,7 @@ float calcuValorFinal(float valorTotal, int formaPagamento)
 
 int main()
 {
-    int convidados, fimDeSemana, formaPagamento;
+    int convidados, fimDeSemana, formaPagamento, pago;
 
     printf("Informe a quantidade de convidados: ");
     scanf("%d", &convidados);
@@ -33,6 +33,9 @@ int main()
 
     printf("Informe a forma de pagamento (1 - A vista, 2 - Duas vezes, 3 - Três vezes, 4 - Quatro ou mais vezes): ");
     scanf("%d", &formaPagamento);
+
+    printf("Informe se vai ser pago ou se havera cancelamento (1 - Pago, 2 - Cancelado): ");
+    scanf("%d", &pago);
 
     float valTotal = calcValorTotal(convidados, fimDeSemana);
     float valFinal = calcuValorFinal(valTotal, formaPagamento);
@@ -46,6 +49,7 @@ int main()
 
     fprintf(arquivo, "Valor total a ser pago: R$ %.2f\n", valTotal);
     fprintf(arquivo, "Valor final a ser pago: R$ %.2f\n", valFinal);
+    fprintf(arquivo, "%i", pago);
 
     fclose(arquivo);
 
