@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688085374 source:c:\users\enric\onedrive\documentos\programação\algaritimo\trabalho 7  pontos\atualizar_status\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
