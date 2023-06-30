@@ -1,0 +1,14 @@
+------ Festa 1 ------
+Codigo do usuario: 1
+Quantidade de convidados: 3
+Horario de inicio: 10:00
+Horario de fim: 22:00
+Tema da festa: meninas superpoderosas
+------------------
+------ Festa 2 ------
+Codigo do usuario: 2
+Quantidade de convidados: 2
+Horario de inicio: 12:00
+Horario de fim: 23:00
+Tema da festa: teste2
+------------------
